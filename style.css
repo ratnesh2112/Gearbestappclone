@@ -1,0 +1,58 @@
+#main1box1{
+    width: 80%;
+    height: 500px;
+    border: 1px solid red;
+    margin: auto;
+}
+.submain1{
+    width: 100%;
+    height: 50px;
+    border: 1px  ;
+    display: flex;
+   
+}
+.submain1>div{
+    width: 220px;
+    height: 100%;
+    border: 1px ;
+    text-align: center;
+    background-color:  #ffff00;
+    
+}
+div>a{
+   
+    text-decoration: none;
+    font-size: large;
+    font-weight:600;
+   
+    color: black;
+
+}
+#subarr1{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+#main1box2{
+    border: 1px solid blue;
+    height: 90%;
+    display: flex;
+}
+#sub1main1box2{
+    width: 20%;
+    height: 100%;
+    border: 1px solid red;
+    list-style: none;
+    text-align: center;
+    line-height: 32px;
+    text-align: start;
+    padding-left: 10px;
+    cursor: pointer;
+
+}
+#sub2main1box2{
+    width: 80%;
+    height: 100%;
+    border: 1px solid black;
+}
